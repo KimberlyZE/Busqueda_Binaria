@@ -1,0 +1,7 @@
+C:\Users\Administrador\source\repos\Busqueda_Binaria_Ejercicio6\Busqueda_Binaria_Ejercicio6\bin\Debug\Busqueda_Binaria_Ejercicio6.exe.config
+C:\Users\Administrador\source\repos\Busqueda_Binaria_Ejercicio6\Busqueda_Binaria_Ejercicio6\bin\Debug\Busqueda_Binaria_Ejercicio6.exe
+C:\Users\Administrador\source\repos\Busqueda_Binaria_Ejercicio6\Busqueda_Binaria_Ejercicio6\bin\Debug\Busqueda_Binaria_Ejercicio6.pdb
+C:\Users\Administrador\source\repos\Busqueda_Binaria_Ejercicio6\Busqueda_Binaria_Ejercicio6\obj\Debug\Busqueda_Binaria_Ejercicio6.csproj.AssemblyReference.cache
+C:\Users\Administrador\source\repos\Busqueda_Binaria_Ejercicio6\Busqueda_Binaria_Ejercicio6\obj\Debug\Busqueda_Binaria_Ejercicio6.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\source\repos\Busqueda_Binaria_Ejercicio6\Busqueda_Binaria_Ejercicio6\obj\Debug\Busqueda_Binaria_Ejercicio6.exe
+C:\Users\Administrador\source\repos\Busqueda_Binaria_Ejercicio6\Busqueda_Binaria_Ejercicio6\obj\Debug\Busqueda_Binaria_Ejercicio6.pdb
