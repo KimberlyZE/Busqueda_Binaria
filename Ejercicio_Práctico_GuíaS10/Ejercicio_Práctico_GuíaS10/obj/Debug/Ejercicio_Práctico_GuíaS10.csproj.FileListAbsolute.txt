@@ -1,0 +1,7 @@
+C:\Users\Arelys Castillo\Desktop\Modularidad_1y5\Ejercicio_Práctico_GuíaS10\Ejercicio_Práctico_GuíaS10\bin\Debug\Ejercicio_Práctico_GuíaS10.exe.config
+C:\Users\Arelys Castillo\Desktop\Modularidad_1y5\Ejercicio_Práctico_GuíaS10\Ejercicio_Práctico_GuíaS10\bin\Debug\Ejercicio_Práctico_GuíaS10.exe
+C:\Users\Arelys Castillo\Desktop\Modularidad_1y5\Ejercicio_Práctico_GuíaS10\Ejercicio_Práctico_GuíaS10\bin\Debug\Ejercicio_Práctico_GuíaS10.pdb
+C:\Users\Arelys Castillo\Desktop\Modularidad_1y5\Ejercicio_Práctico_GuíaS10\Ejercicio_Práctico_GuíaS10\obj\Debug\Ejercicio_Práctico_GuíaS10.csproj.AssemblyReference.cache
+C:\Users\Arelys Castillo\Desktop\Modularidad_1y5\Ejercicio_Práctico_GuíaS10\Ejercicio_Práctico_GuíaS10\obj\Debug\Ejercicio_Práctico_GuíaS10.csproj.CoreCompileInputs.cache
+C:\Users\Arelys Castillo\Desktop\Modularidad_1y5\Ejercicio_Práctico_GuíaS10\Ejercicio_Práctico_GuíaS10\obj\Debug\Ejercicio_Práctico_GuíaS10.exe
+C:\Users\Arelys Castillo\Desktop\Modularidad_1y5\Ejercicio_Práctico_GuíaS10\Ejercicio_Práctico_GuíaS10\obj\Debug\Ejercicio_Práctico_GuíaS10.pdb
